@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Exam16 {
     public static void main(String[] args) {
+        //if문을 활용한 계산기
         Scanner s = new Scanner(System.in);
         int a, b;
         int k;
